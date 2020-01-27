@@ -9,7 +9,7 @@ A date picker component. You can select a range of days between two dates from t
 **install from npm**
 
 ``` shell
-npm install --save react-native-calendar-select
+npm install --save react-native-calendar-picker
 ```
 
 **import in project**
