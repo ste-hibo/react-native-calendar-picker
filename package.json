@@ -1,0 +1,43 @@
+{
+  "name": "react-native-calendar-picker",
+  "version": "1.0.0",
+  "description": "You can select a range of days between two dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "calendar",
+    "date-picker"
+  ],
+  "author": "Ste",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "coveralls": "^2.13.1",
+    "cz-conventional-changelog": "^2.0.0",
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0",
+    "istanbul": "^0.4.5",
+    "jest": "21.2.1",
+    "react": "^16.1.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-native": "^0.50.0",
+    "react-test-renderer": "16.0.0"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^15.4.2",
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinysymphony/react-native-calendar-select.git"
+  }
+}
